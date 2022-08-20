@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Progetto_TCF"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_TCF">
+				<Option output="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug/Progetto_TCF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_TCF"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_TCF/fast">
+				<Option output="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug/Progetto_TCF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_TCF/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/francescomarchisotti/Documents/Uni/Terzo\ anno/TCF/Progetto-TCF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/csvFile.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/data.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/dataset.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/file.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/fileFactory.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/partder.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/polyfit.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/txtFile.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include/udouble.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/csvFile_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/data_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/dataset_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/fileFactory_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/file_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/partder_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/polyfit_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/txtFile_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/include_t/udouble_t.hpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/main.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/csvFile.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/data.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/dataset.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/fileFactory.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/partder.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/polyfit.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/txtFile.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src/udouble.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/csvFile_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/data_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/dataset_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/fileFactory_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/partder_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/polyfit_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/txtFile_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/src_t/udouble_t.cpp">
+			<Option target="Progetto_TCF"/>
+		</Unit>
+		<Unit filename="/Users/francescomarchisotti/Documents/Uni/Terzo anno/TCF/Progetto-TCF/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
